@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/NGforNAB/static/css/main.8589f34f.css",
-    "main.js": "/NGforNAB/static/js/main.485e9dcc.js",
+    "main.css": "/NGforNAB/static/css/main.96a2696f.css",
+    "main.js": "/NGforNAB/static/js/main.e5345408.js",
     "index.html": "/NGforNAB/index.html",
-    "main.8589f34f.css.map": "/NGforNAB/static/css/main.8589f34f.css.map",
-    "main.485e9dcc.js.map": "/NGforNAB/static/js/main.485e9dcc.js.map"
+    "main.96a2696f.css.map": "/NGforNAB/static/css/main.96a2696f.css.map",
+    "main.e5345408.js.map": "/NGforNAB/static/js/main.e5345408.js.map"
   },
   "entrypoints": [
-    "static/css/main.8589f34f.css",
-    "static/js/main.485e9dcc.js"
+    "static/css/main.96a2696f.css",
+    "static/js/main.e5345408.js"
   ]
 }
